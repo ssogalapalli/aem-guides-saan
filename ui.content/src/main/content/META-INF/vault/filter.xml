@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/saan" mode="merge"/>
+    <filter root="/content/saan" mode="merge"/>
+    <filter root="/content/dam/saan" mode="merge"/>
+    <filter root="/content/experience-fragments/saan" mode="merge"/>
+</workspaceFilter>
